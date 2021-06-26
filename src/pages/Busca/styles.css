@@ -1,0 +1,71 @@
+.main {
+    display: flex;
+    flex-direction: column-reverse;
+    /*justify-content: center;
+    align-items: center;*/
+    background-color: wheat;
+}
+
+.main .imagem{
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.repositorios {
+
+padding-top: 1rem;
+padding-bottom:1rem;
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+    
+    
+}
+
+li.repos {
+    padding: 1rem;
+    padding-bottom: 2rem;
+    color: wheat;
+    border-radius: .5rem;
+    height: 10px;
+    margin-left: 1rem;
+    margin-right: .5rem;
+    /*display: flex;
+    flex-wrap: wrap;*/
+    background-color: #4f2158;
+    align-items: center;
+    margin-bottom: 1rem;
+    
+    
+    
+}
+
+input {
+    color:rgb(165, 101, 138);
+    width: 89%;
+    padding: 1.5rem;
+    border-radius: .5em;
+    margin: 2rem .5rem .5rem 0.5rem;
+    border-color: transparent;
+
+}
+
+button {
+    display: inline;
+}
+
+.main img {
+ border-radius: 10px;
+    width: 200px;
+    padding-top: 2rem;
+}
+
+.main p {
+   font-size: 2.5rem;
+    color: #4f2158;
+    padding-top: .3rem;
+}

@@ -1,9 +1,13 @@
 .main-simpson {
     display: flex;
-    flex-direction: column-reverse;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     background-color: wheat;
+}
+.main-simpson p{
+    color: #4f2158;
+
 }
 
 .main-simpson .card{
@@ -27,7 +31,7 @@
 
 
 .main-simpson button {
-    background-color: black;
+    background-color: #4f2158;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -35,7 +39,7 @@
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin: 4px 2px;
+    margin: 2px 2px;
     cursor: pointer;
 }
 
@@ -60,7 +64,7 @@
     }
 
     .main-simpson button {
-    background-color: black;
+    background-color: #4f2158;
     border: none;
     color: white;
     padding: 15px 32px;

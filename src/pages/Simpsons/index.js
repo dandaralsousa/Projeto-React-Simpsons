@@ -37,6 +37,8 @@ const Simpsons = () => {
             </div>
         </>
     )
+   
 }
+
 
 export default Simpsons

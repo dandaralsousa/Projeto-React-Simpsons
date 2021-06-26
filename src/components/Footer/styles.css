@@ -1,0 +1,17 @@
+.rodape {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem;
+    color: wheat;
+    margin-top: 1rem;
+}
+
+.social-media {
+    margin-left: 4rem;
+}
+
+
+a {
+    color: wheat;
+    text-decoration: none;
+}
